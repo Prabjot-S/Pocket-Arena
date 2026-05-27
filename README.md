@@ -1,4 +1,4 @@
-# Pokémon Battle Game - FSM/NFA Model (Python + Pygame)
+# Pocket Arena: Pokémon Battle Game - FSM/NFA Model (Python + Pygame)
 This project is a simplified turn-based Pokémon battle game built using Python and Pygame, designed to demonstrate how FSMs, specifically a NFA can model sequential game logic and player.
 
 ## 🎮 Game Overview
