@@ -25,4 +25,4 @@ This project is a simplified turn-based Pokémon battle game built using Python 
 - Run the game: python Game.py
 
 ## 📚 Purpose
-This project was created to illustrate how automata theory can be applied to real world systems, especially interactive games
+Project was created to illustrate how automata theory can be applied to real world systems, especially interactive games
