@@ -3,7 +3,7 @@ This project is a simplified turn-based Pokémon battle game built using Python 
 
 ## 🎮 Game Overview
 
-  - Two Pokémon: Giratina vs Blastoise
+  - Two Pokémon: Giratina v Blastoise
   - Player actions each turn: Attack (random 10-30 dmg), Heal (+10 HP, max 3 uses), Concede
   - Alternating turns until one Pokémon's HP reaches 0 or the player concedes
   - The stats page displays total wins for each Pokémon
